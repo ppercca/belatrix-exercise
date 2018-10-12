@@ -1,0 +1,4 @@
+l es inicializado con Null y luego se le concatena strings.
+hay un return y nuestro método es void.
+Nombres de variables no explicitas
+en la BD se está guardando un boolean y no el mensaje real
